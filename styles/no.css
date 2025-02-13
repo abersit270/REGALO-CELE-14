@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../gifs/televisor-dañado.gif);
+}
+
+h1{
+    text-align: center;
+    margin-top: 40vh;
+    color: blue;
+    font-size: 5vw;
+}
+h2{
+    text-align: center;
+    font-size: 3vw;
+}
+

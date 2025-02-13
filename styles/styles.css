@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(231, 67, 67);
+}
+.postCabecera{
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(164, 42, 42);
+}
+.contenido{
+    display: flex;
+    width: 100vw;
+    height: 90vh;
+    background-color: rgb(164, 42, 42);
+}
+.izquierda{
+    width: 10vw;
+}
+.cabecera{
+   height: 80vh;
+   width: 80vw; 
+   background-color: rgb(231, 67, 67);
+   text-align: center;
+   border-radius: 2vw;
+   font-size: 3vw;
+   border: solid 0.2vw;
+}
+.titulo{
+    font-family:'Courier New', Courier, monospace;
+}
+.texto{
+    font-size: 2.5vw;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.propuesta{
+    font-size: 3vw;
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 3vh;
+}
+.botones{
+    width: 40vw;
+    height: 20vh;
+    margin-left: 20vw;
+    display: flex;
+    justify-content: space-around;
+
+}
+button{
+   padding: 3.5vw;
+   font-size: 2vw;
+   background-color: rgb(120, 14, 14);
+   color: white;
+   border-radius: 100vw;
+}
